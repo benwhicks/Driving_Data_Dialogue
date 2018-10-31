@@ -1,3 +1,3 @@
-# eppc2017
+# Driving Data Dialogue
 
 Slides for a presentation on **Driving Data Dialogue** presented at the EPPC 2017 conference in Gold Coast, Australia. 
